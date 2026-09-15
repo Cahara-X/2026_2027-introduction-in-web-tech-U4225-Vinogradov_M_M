@@ -1,4 +1,4 @@
-<img width="1510" height="617" alt="image" src="https://github.com/user-attachments/assets/0df3142a-b7b4-426f-bf35-e62794b0e5e2" /># Отчет по третьей лабораторной
+# Отчет по третьей лабораторной
 
 ## Ход работы
 
